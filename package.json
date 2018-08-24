@@ -1,0 +1,23 @@
+{
+  "name": "spacemen",
+  "version": "1.0.0",
+  "description": "jspractice 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/text-edit/spacemen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/text-edit/spacemen/issues"
+  },
+  "homepage": "https://github.com/text-edit/spacemen#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "file:node_modules/react-dom"
+  }
+}
