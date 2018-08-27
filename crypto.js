@@ -7,3 +7,5 @@ function test(){
 }
 
 export test; 
+
+import test2 from './testing';
