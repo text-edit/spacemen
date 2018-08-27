@@ -10,3 +10,10 @@ function test2(){
 
 test2
 export test2;
+
+
+// alksdfjklasjfklasjdf/
+
+// alksdjfalksdjfklajdsfkl ajsdflkja s
+
+// testin testing testin
